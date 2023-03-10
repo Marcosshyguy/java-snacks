@@ -25,7 +25,5 @@ public class Snack4 {
                 System.out.print(randomNumba + " ");
             }
         }
-
-
     }
 }
